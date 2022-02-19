@@ -1,8 +1,8 @@
 class Such < Formula
   desc "Generate fake data, customizable and powerful."
   homepage "https://www.suchjs.com"
-  url "https://github.com/suchjs/such-cli/releases/download/v0.2.1/such.tar.gz"
-  sha256 "7637e3dabbb21b0eceeccb8bec1050403234ed8aa302a19918298dfa1d1027c8"
+  url "https://github.com/suchjs/such-cli/releases/download/v0.2.1/such-0.2.1.tar.gz"
+  sha256 "3de53db4ce50eeae9c2a963761fb8c4518d9386dcb9d54774d375ee9c587ee99"
   license "MIT"
   version "0.2.1"
 
