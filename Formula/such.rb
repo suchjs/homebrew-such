@@ -1,4 +1,4 @@
-class SuchCli < Formula
+class Such < Formula
   desc "Generate fake data, customizable and powerful."
   homepage "https://www.suchjs.com"
   url "https://github.com/suchjs/such-cli/releases/download/v0.2.1/such.tar.gz"
